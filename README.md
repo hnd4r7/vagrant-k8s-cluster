@@ -25,7 +25,7 @@ etcd: 3.4.13-0
 
 ### 搭建集群
 ```bash
-https://gitee.com/bambrow/vagrant-k8s-cluster-cn.git
+git clone https://gitee.com/bambrow/vagrant-k8s-cluster-cn.git
 cd vagrant-k8s-cluster-cn
 vagrant up
 ```
